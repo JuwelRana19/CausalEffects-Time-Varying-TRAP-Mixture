@@ -1,5 +1,4 @@
-#Joint Causal Effects of Time-Varying TRAP Mixtures and Environmental Justice
-
+# Joint Causal Effects of Time-Varying TRAP Mixtures and Environmental Justice
 
 This folder includes **reproducible R code** for the **Joint Causal Effects of Time-Varying Traffic-Related Air Pollution Mixtures on Nonaccidental Mortality and Environmental Justice Implications: A Population-Based Cohort Study in Toronto, Canada** Manuscript Analysis and Visualization.
 
